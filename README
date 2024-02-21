@@ -1,0 +1,5 @@
+ARCHIVED directory is the latest version of the directory we have tested the program in the lab.
+This should definitely work.
+
+LEDCube directory is a version with some small refactoring and better commenting to make code more readable.
+Potentially, we have introduced an error but it should be unlikely.
